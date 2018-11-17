@@ -1,2 +1,2 @@
 # Quiz-iOS-App
-![demo](https://media.giphy.com/media/9J7ioQdE40qHhenwNj/giphy-downsized-large.gif)
+![demo](https://github.com/TylerAStephens/Quiz-iOS-App/blob/master/ReadMe-GIF/ShiningTestGif2.gif)
